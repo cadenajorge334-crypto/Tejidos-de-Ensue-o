@@ -539,7 +539,7 @@
             <div class="tarjeta-producto">
                 <img src="https://i.imgur.com/4gnG6K3.jpeg" alt="Manta Tejida">
                 <div class="info-producto">
-                    <h3>Manta Artesanal Dulce Sueño</h3>
+                    <h3>Sueter Dulce Sueño</h3>
                     <p class="precio">$45.000</p>
                     <button class="btn-comprar" onclick="agregarAlCarrito('Manta Artesanal Dulce Sueño', 45000)">Añadir al Carrito</button>
                 </div>
